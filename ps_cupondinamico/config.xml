@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+  <name>ps_cupondinamico</name>
+  <displayName>Cupón dinámico por cantidad</displayName>
+  <version>1.0.0</version>
+  <author>Alejandro González</author>
+  <need_instance>0</need_instance>
+  <tab>pricing_promotion</tab>
+  <description>
+    Permite aplicar distintos porcentajes de descuento con un único cupón según la cantidad de productos.
+  </description>
+</module>
